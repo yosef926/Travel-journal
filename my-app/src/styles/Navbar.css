@@ -1,0 +1,20 @@
+.Navbar--div {
+    display: flex;
+    width: 50%;
+    border-radius: 25px 25px 0px 0px;;
+    background-color: #F55A5A;
+}
+
+
+.Navbar--logoImg {
+    width: 30px;
+    height: 30px;
+    margin-left: 40%;
+    margin-top: 15px;
+}
+
+.Navbar--textImg {
+    color: white;
+    font-weight: lighter;
+    margin-left: 10px;
+}
